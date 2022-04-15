@@ -11,5 +11,5 @@
     }
     else{
       alert("It seems that you can only press the button on the right : (")
-    }
+    } 
   }
