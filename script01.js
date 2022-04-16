@@ -15,3 +15,6 @@
       alert("It seems that you can only press the button on the right : (")
     }
   }
+  function enterAnswer01(){
+alert("Okay... The answer is 2; )");
+  }
