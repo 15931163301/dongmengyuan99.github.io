@@ -1,6 +1,6 @@
 
   var response = prompt("what's your name?");
-  alert("Hellow "+response+" Nice to meet you. I want to share a story with you:D ");
+  alert("Hello "+response+" Nice to meet you. I want to share a story with you:D ");
 
 
   function enterAnswer(){
